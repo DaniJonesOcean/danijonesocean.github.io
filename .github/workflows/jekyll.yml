@@ -1,40 +1,33 @@
-name: Build and Deploy Jekyll Site
-
-on:
-  push:
-    branches:
-      - main  # Trigger the workflow on push to the main branch
-  pull_request:
-    branches:
-      - main  # Trigger the workflow on pull request targeting the main branch
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
       # Install rbenv and dependencies
       - name: Install rbenv
         run: |
           sudo apt update
           sudo apt install -y libssl-dev libreadline-dev zlib1g-dev
           git clone https://github.com/rbenv/rbenv.git ~/.rbenv
-          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-          source ~/.bashrc
+          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> $GITHUB_ENV
+          echo 'eval "$(rbenv init -)"' >> $GITHUB_ENV
           git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
-          source ~/.bashrc
 
       # Install Ruby 3.1.4 using rbenv
       - name: Install Ruby 3.1.4
         run: |
-          ~/.rbenv/bin/rbenv install 3.1.4
-          ~/.rbenv/bin/rbenv global 3.1.4
+          source $GITHUB_ENV
+          rbenv install 3.1.4
+          rbenv global 3.1.4
 
+      # Install Bundler and Gems in User Directory
       - name: Setup Bundler
-        run: gem install bundler
+        run: |
+          gem install --user-install bundler
+          echo 'export PATH="$HOME/.gem/ruby/3.1.0/bin:$PATH"' >> $GITHUB_ENV
+          source $GITHUB_ENV
 
       - name: Setup Pages
         id: pages
