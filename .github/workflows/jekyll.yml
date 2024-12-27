@@ -34,11 +34,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install Ruby
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y build-essential libssl-dev libreadline-dev zlib1g-dev
+
+      - name: Install rbenv
+        run: |
+          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+          source ~/.bashrc
+
+      - name: Install ruby-build plugin for rbenv
+        run: |
           git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+          source ~/.bashrc
+
+      - name: Install Ruby 3.1.4
+        run: |
           rbenv install 3.1.4
           rbenv global 3.1.4
 
