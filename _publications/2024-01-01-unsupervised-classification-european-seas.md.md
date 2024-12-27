@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-unsupervised-classification-european-seas
 excerpt: 'This paper explores the unsupervised classification of the northwestern European seas using satellite altimetry data.'
-date: 2024
+date: 2024-01-01
 venue: 'Ocean Science'
 slidesurl: ''
 paperurl: 'https://doi.org/10.5194/os-20-201-2024'

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-detecting-overfit-climate-model
 excerpt: 'This paper introduces a novel heuristic method for detecting overfit in the unsupervised classification of climate model data.'
-date: 2023
+date: 2023-01-01
 venue: 'Environmental Data Science'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1017/eds.2023.40'
