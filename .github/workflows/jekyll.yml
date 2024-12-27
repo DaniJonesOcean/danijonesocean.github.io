@@ -1,81 +1,43 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
-
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y build-essential libssl-dev libreadline-dev zlib1g-dev
-
+        
+      # Install rbenv and dependencies
       - name: Install rbenv
         run: |
+          sudo apt update
+          sudo apt install -y libssl-dev libreadline-dev zlib1g-dev
           git clone https://github.com/rbenv/rbenv.git ~/.rbenv
           echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
           echo 'eval "$(rbenv init -)"' >> ~/.bashrc
           source ~/.bashrc
-
-      - name: Install ruby-build plugin for rbenv
-        run: |
           git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
           source ~/.bashrc
 
+      # Install Ruby 3.1.4 using rbenv
       - name: Install Ruby 3.1.4
         run: |
-          rbenv install 3.1.4
-          rbenv global 3.1.4
+          ~/.rbenv/bin/rbenv install 3.1.4
+          ~/.rbenv/bin/rbenv global 3.1.4
 
-      - name: Setup Bundler and Install Gems
-        run: |
-          gem install bundler
-          bundle install
+      - name: Setup Bundler
+        run: gem install bundler
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
