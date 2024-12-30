@@ -8,7 +8,7 @@ date: 2024-09-25
 location: "Seattle, Washington"
 ---
 
-**Speaker:** Dani Jones, Cooperative Institute for Great Lakes Research (CIGLR), University of Michigan
+**Why oceanographers should care about the Great Lakes**
 
 **Abstract:**
 
