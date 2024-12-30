@@ -9,6 +9,8 @@ location: "Washington, D.C."
 session: "A029 - AI-Driven Innovations in Earth and Climate Sciences"
 ---
 
+**Using machine learning to categorize extratropical cyclones impacting the Great Lakes region, this talk focuses on their effects on precipitation and evaporation, with implications for improving water level forecasting and understanding climate trends**
+
 ### Abstract
 
 The Great Lakes basin (GLB) is home to approximately 34 million people in the United States and Canada – about 8% and 32% of their respective populations – who rely on its natural resources for drinking water, commerce, and recreation. In addition, its closed system dynamics and varied physical conditions make the Great Lakes ideal for studying atmosphere-land-hydrosphere interactions. Extratropical cyclones (ETCs), a key component of the region’s weather patterns, impact the GLB through winds, heat transport, precipitation, and evaporation. Understanding these impacts has implications for coastal infrastructure management, planning, and improving predictive hydrologic models.
