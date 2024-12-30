@@ -20,9 +20,9 @@ The Great Lakes have served, and will continue to serve, as a test bed for under
 
 This presentation will map out the current state and possible future trajectories of Great Lakes science by exploring initial efforts and research opportunities at the intersection of ML/AI and marine science research in the region. By showcasing current Great Lakes applications and future possibilities, this talk argues that these freshwater systems represent a growth area for marine research and technological innovation. Collaborative efforts between freshwater and marine science communities promise mutual advancements, bridging critical gaps, and leveraging strengths from both fields. In addition, the integration of ML/AI in binational management strategies could influence future decision support tools, promoting sustainable and cooperative management of these vital resources and potentially informing wider international management of shared resources. Finally, I highlight the establishment of the Great Lakes AI Lab, which aims to be a nucleus of a collaborative research community in ML/AI for Great Lakes science, management, and restoration.
 
-**Slides:** [Available here](files/NOAA-PMEL-GreatLakesTalk.pdf)
+**Slides:** [Available here](https://danijonesocean.github.io/files/NOAA-PMEL-GreatLakesTalk.pdf)
 
 ---
 
-**Other Presentations:**
+**Related Presentations:**
 - NOAA Pacific Marine Environmental Laboratory, 2024-09-26, Seattle, Washington
