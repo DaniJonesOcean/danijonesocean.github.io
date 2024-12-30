@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DaniJonesEarth"
+title                    : "DaniJonesOcean"
 title_separator          : "-"
 name                     : &name "Dani Jones"
 description              : &description "Marine Research Scientist"
-url                      : https://DaniJonesEarth.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://DaniJonesOcean.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DaniJonesOcean/DaniJonesEarth.github.io"
+repository               : "DaniJonesOcean/DaniJonesOcean.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "dj-profile.jpg"
   name             : "Dani Jones"
   pronouns         : "they/them"  
-  bio              : "Environmental modeler and data scientist"
+  bio              : "Oceanographer and data scientist"
   location         : "Ann Arbor, MI, USA"
-  employer         : "Cooperative Institute for Great Lakes Research (CIGLR), University of Michigan"
+  employer         : "CIGLR, University of Michigan"
   uri              : # URL
   email            : "dannes@umich.edu" 
 
