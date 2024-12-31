@@ -8,7 +8,8 @@ date: 2021-01-01
 venue: 'Environmental Research Letters'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1088/1748-9326/ac0eb0'
-citation: 'Sonnewald, M., Leguensat, R., Jones, D.C., Dueben, P., Brajard, J., and Balaji, V. (2021). "Bridging observations, theory, and numerical simulation of the ocean using Machine Learning." <i>Environmental Research Letters</i>, 16, 073008. \href{https://doi.org/10.1088/1748-9326/ac0eb0}{https://doi.org/10.1088/1748-9326/ac0eb0}'
+citation: 'Sonnewald, M., Leguensat, R., Jones, D.C., Dueben, P., Brajard, J., and Balaji, V. (2021). "Bridging observations, theory, and numerical simulation of the ocean using Machine Learning." <i>Environmental Research Letters</i>, 16, 073008. <a href="https://doi.org/10.1088/1748-9326/ac0eb0">https://doi.org/10.1088/1748-9326/ac0eb0</a>'
+
 ---
 Progress within physical oceanography has been concurrent with the increasing sophistication of tools available for its study. The incorporation of machine learning (ML) techniques offers exciting possibilities for advancing the capacity and speed of established methods and for making substantial and serendipitous discoveries. Beyond vast amounts of complex data ubiquitous in many modern scientific fields, the study of the ocean poses a combination of unique challenges that ML can help address.
 

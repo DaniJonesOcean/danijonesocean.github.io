@@ -8,5 +8,6 @@ date: 2023-01-01
 venue: 'Geophysical Research Letters'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1029/2022GL101595'
-citation: 'Aguiar W., Lee S.-K., Lopez H., Dong S., Seroussi H., Jones D.C., and Morrison A.K. (2023). "Antarctic Bottom Water sensitivity to spatio-temporal variations in Antarctic meltwater fluxes." <i>Geophysical Research Letters</i>, 50:e2022GL101595. \href{https://doi.org/10.1029/2022GL101595}{https://doi.org/10.1029/2022GL101595}'
+citation: 'Aguiar W., Lee S.-K., Lopez H., Dong S., Seroussi H., Jones D.C., and Morrison A.K. (2023). "Antarctic Bottom Water sensitivity to spatio-temporal variations in Antarctic meltwater fluxes." <i>Geophysical Research Letters</i>, 50:e2022GL101595. <a href="https://doi.org/10.1029/2022GL101595">https://doi.org/10.1029/2022GL101595</a>'
+
 ---

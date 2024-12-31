@@ -8,7 +8,8 @@ date: 2021-01-01
 venue: 'Journal of Geophysical Research: Oceans'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1029/2020JC016636'
-citation: 'Twelves, A., Goldberg, D.N., Henley, S.F., Mazloff, M.R., and Jones, D.C. (2021). "Self-shading and meltwater spreading control the transition from light to iron limitation in an Antarctic coastal polynya." <i>Journal of Geophysical Research: Oceans</i>, 126, e2020JC016636. \href{https://doi.org/10.1029/2020JC016636}{https://doi.org/10.1029/2020JC016636}'
+citation: 'Twelves, A., Goldberg, D.N., Henley, S.F., Mazloff, M.R., and Jones, D.C. (2021). "Self-shading and meltwater spreading control the transition from light to iron limitation in an Antarctic coastal polynya." <i>Journal of Geophysical Research: Oceans</i>, 126, e2020JC016636. <a href="https://doi.org/10.1029/2020JC016636">https://doi.org/10.1029/2020JC016636</a>'
+
 ---
 Dotson Ice Shelf (DIS) in West Antarctica is undergoing rapid basal melting driven by intrusions of warm, saline Circumpolar Deep Water (CDW) onto the continental shelf. Meltwater from DIS is thought to influence biology in the adjacent Amundsen Sea Polynya (ASP), which exhibits the highest net primary productivity (NPP) per unit area of any coastal polynya in the Southern Ocean. 
 

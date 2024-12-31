@@ -8,7 +8,8 @@ date: 2021-01-01
 venue: 'Ocean Science'
 slidesurl: ''
 paperurl: 'https://doi.org/10.5194/os-17-1545-2021'
-citation: 'Thomas, S.D.A., Jones, D.C., Faul, A., Mackie, E., and Pauthenet, E. (2021). "Defining Southern Ocean fronts using unsupervised classification." <i>Ocean Science</i>, 17, 1545–1562. \href{https://doi.org/10.5194/os-17-1545-2021}{https://doi.org/10.5194/os-17-1545-2021}'
+citation: 'Thomas, S.D.A., Jones, D.C., Faul, A., Mackie, E., and Pauthenet, E. (2021). "Defining Southern Ocean fronts using unsupervised classification." <i>Ocean Science</i>, 17, 1545–1562. <a href="https://doi.org/10.5194/os-17-1545-2021">https://doi.org/10.5194/os-17-1545-2021</a>'
+
 ---
 Oceanographic fronts are transitions between thermohaline structures with different characteristics. Such transitions are ubiquitous, and their locations and properties affect how the ocean operates as part of the global climate system. In the Southern Ocean, fronts have classically been defined using a small number of continuous, circumpolar features in sea surface height or dynamic height. Modern observational and theoretical developments are challenging and expanding this traditional framework to accommodate a more complex view of fronts.
 

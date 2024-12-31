@@ -7,5 +7,6 @@ excerpt: 'This study explores the role of surface heat fluxes in shaping the str
 date: 2024-01-01
 venue: 'Journal of Geophysical Research: Oceans'
 paperurl: 'https://doi.org/10.1029/2023JC020795'
-citation: 'Pimm, C., Williams, R. G., Jones, D., and Meijers, A.J.S. (2024). "Surface heat fluxes drive a two-phase response in Southern Ocean mode water stratification." <i>Journal of Geophysical Research: Oceans</i>, 129, e2023JC020795. \href{https://doi.org/10.1029/2023JC020795}{https://doi.org/10.1029/2023JC020795}'
+citation: 'Pimm, C., Williams, R. G., Jones, D., and Meijers, A.J.S. (2024). "Surface heat fluxes drive a two-phase response in Southern Ocean mode water stratification." <i>Journal of Geophysical Research: Oceans</i>, 129, e2023JC020795. <a href="https://doi.org/10.1029/2023JC020795">https://doi.org/10.1029/2023JC020795</a>'
+
 ---

@@ -8,6 +8,8 @@ date: 2020-01-01
 location: "Cambridge, UK"
 ---
 
+Led one-on-one and small group tutorials for undergraduate math students, focusing on computational projects and statistical physics. Also delivered graduate-level guest lectures on ocean circulation, unsupervised classification, and ocean data in the Artificial Intelligence for Environmental Risk PhD programme.
+
 ### Guest Lecturer: Artificial Intelligence for Environmental Risk (2020 - 2022)
 
 As a **Guest Lecturer** in the **Artificial Intelligence for Environmental Risk** (AI4ER) course at the **University of Cambridge**, I delivered graduate-level lectures focused on the intersection of **ocean circulation**, **unsupervised classification**, and **ocean data**.

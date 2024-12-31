@@ -9,7 +9,7 @@ location: "Washington, D.C."
 session: "A029 - AI-Driven Innovations in Earth and Climate Sciences"
 ---
 
-**Using machine learning to categorize extratropical cyclones impacting the Great Lakes region, this talk focuses on their effects on precipitation and evaporation, with implications for improving water level forecasting and understanding climate trends**
+**Leveraging machine learning to categorize extratropical cyclones and enhance water level forecasting in the Great Lakes region**
 
 ### Abstract
 

@@ -8,7 +8,8 @@ date: 2021-01-01
 venue: 'Nature Communications'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1038/s41467-021-25257-4'
-citation: 'Andersson, T., Hosking, J.S., Perez-Ortiz, M., Paige, B., Elliott, A., Russell, C., Law, S., Jones, D.C., Wilkinson, J., Phillips, T., Byrne, J., Tietsche, S., Sarojini, B.B., Blanchard-Wrigglesworth, E., Aksenov, Y., Downie, R., and Shuckburgh, E. (2021). "Seasonal Arctic sea ice forecasting with probabilistic deep learning." <i>Nature Communications</i>, 12, 5124. \href{https://doi.org/10.1038/s41467-021-25257-4}{https://doi.org/10.1038/s41467-021-25257-4}'
+citation: 'Andersson, T., Hosking, J.S., Perez-Ortiz, M., Paige, B., Elliott, A., Russell, C., Law, S., Jones, D.C., Wilkinson, J., Phillips, T., Byrne, J., Tietsche, S., Sarojini, B.B., Blanchard-Wrigglesworth, E., Aksenov, Y., Downie, R., and Shuckburgh, E. (2021). "Seasonal Arctic sea ice forecasting with probabilistic deep learning." <i>Nature Communications</i>, 12, 5124. <a href="https://doi.org/10.1038/s41467-021-25257-4">https://doi.org/10.1038/s41467-021-25257-4</a>'
+
 ---
 Anthropogenic warming has led to an unprecedented year-round reduction in Arctic sea ice extent. This has far-reaching consequences for indigenous and local communities, polar ecosystems, and global climate, motivating the need for accurate seasonal sea ice forecasts. 
 

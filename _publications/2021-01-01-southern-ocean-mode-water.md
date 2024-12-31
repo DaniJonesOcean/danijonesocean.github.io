@@ -8,7 +8,8 @@ date: 2021-01-01
 venue: 'Journal of Geophysical Research: Oceans'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1029/2020JC016585'
-citation: 'Boland, E., Jones, D.C., Meijers, A.J.S., Forget, G., and Josey, S.A. (2021). "Local and remote influences on the heat content of Southern Ocean mode water formation regions." <i>Journal of Geophysical Research: Oceans</i>, 126, e2020JC016585. \href{https://doi.org/10.1029/2020JC016585}{https://doi.org/10.1029/2020JC016585}'
+citation: 'Boland, E., Jones, D.C., Meijers, A.J.S., Forget, G., and Josey, S.A. (2021). "Local and remote influences on the heat content of Southern Ocean mode water formation regions." <i>Journal of Geophysical Research: Oceans</i>, 126, e2020JC016585. <a href="https://doi.org/10.1029/2020JC016585">https://doi.org/10.1029/2020JC016585</a>'
+
 ---
 The Southern Ocean (SO) is a crucial region for the global ocean uptake of heat and carbon. There are large uncertainties in the observations of fluxes of heat and carbon between the atmosphere and the ocean mixed layer, which lead to large uncertainties in the amount entering into the global overturning circulation. 
 
