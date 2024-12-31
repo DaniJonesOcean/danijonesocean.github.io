@@ -8,7 +8,8 @@ date: 2022-01-01
 venue: 'Ocean Science'
 slidesurl: ''
 paperurl: 'https://doi.org/10.5194/os-18-953-2022'
-citation: 'Sanders, R.N.C., Jones, D.C., Josey, S., Sinha, B., and Forget, G. (2022). "Causes of the 2015 North Atlantic cold anomaly in a global state estimate." <i>Ocean Science</i>. \href{https://doi.org/10.5194/os-18-953-2022}{https://doi.org/10.5194/os-18-953-2022}'
+citation: 'Sanders, R.N.C., Jones, D.C., Josey, S., Sinha, B., and Forget, G. (2022). "Causes of the 2015 North Atlantic cold anomaly in a global state estimate." <i>Ocean Science</i>. <a href="https://doi.org/10.5194/os-18-953-2022">https://doi.org/10.5194/os-18-953-2022</a>'
+
 ---
 The subpolar North Atlantic is an important part of the global ocean and climate system, with SST variability in the region influencing the climate of Europe and North America. While the majority of the global ocean exhibited higher-than-average surface temperatures in 2015, the subpolar North Atlantic experienced record low temperatures. This interannual cold anomaly is thought to have been driven by surface forcing, but detailed questions remain about how the anomaly was created and maintained. 
 

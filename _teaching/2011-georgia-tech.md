@@ -8,6 +8,8 @@ date: 2011-08-01
 location: "Atlanta, Georgia, USA"
 ---
 
+Delivered lectures on oceanography for upper-level undergraduate students, engaging them with real-world applications of ocean science.
+
 ### Overview
 
 At **Georgia Institute of Technology**, I served as a **Guest Lecturer** for **upper-level undergraduate oceanography courses** from 2011 to 2013. I delivered lectures on various topics in **oceanography**, including the physical dynamics of oceans, ocean circulation, and the influence of environmental factors on marine ecosystems.

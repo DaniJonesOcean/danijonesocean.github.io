@@ -8,5 +8,6 @@ date: 2022-01-01
 venue: 'Environmental Data Science'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1017/eds.2022.10'
-citation: 'Furner, R., Haynes, P., Munday, D., Paige, B., Jones, D.C., and Shuckburgh, E. (2022). "Sensitivity analysis of a regression model of ocean temperature." <i>Environmental Data Science</i>, Vol. 1, e11. \href{https://doi.org/10.1017/eds.2022.10}{https://doi.org/10.1017/eds.2022.10}'
+citation: 'Furner, R., Haynes, P., Munday, D., Paige, B., Jones, D.C., and Shuckburgh, E. (2022). "Sensitivity analysis of a regression model of ocean temperature." <i>Environmental Data Science</i>, Vol. 1, e11. <a href="https://doi.org/10.1017/eds.2022.10">https://doi.org/10.1017/eds.2022.10</a>'
+
 ---

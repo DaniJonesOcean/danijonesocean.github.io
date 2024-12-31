@@ -7,5 +7,6 @@ excerpt: "This paper introduces a convolutional Gaussian neural process (ConvGNP
 date: 2023-01-01
 venue: 'Environmental Data Science'
 paperurl: 'https://doi.org/10.1017/eds.2023.22'
-citation: 'Andersson, T., Bruinsma, W.P., Markou, S., Requeima, J., Coca-Castro, A., Vaughan, A., Ellis, A., Lazzara, M.A., Jones, D., Hosking, J.S., Turner, R.E. (2023). "Environmental sensor placement with convolutional Gaussian neural processes." <i>Environmental Data Science</i>, 2, E32. \href{https://doi.org/10.1017/eds.2023.22}{https://doi.org/10.1017/eds.2023.22}'
+citation: 'Andersson, T., Bruinsma, W.P., Markou, S., Requeima, J., Coca-Castro, A., Vaughan, A., Ellis, A., Lazzara, M.A., Jones, D., Hosking, J.S., Turner, R.E. (2023). "Environmental sensor placement with convolutional Gaussian neural processes." <i>Environmental Data Science</i>, 2, E32. <a href="https://doi.org/10.1017/eds.2023.22">https://doi.org/10.1017/eds.2023.22</a>'
+
 ---

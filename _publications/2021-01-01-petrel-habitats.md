@@ -8,7 +8,8 @@ date: 2021-01-01
 venue: 'Global Change Biology'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1111/gcb.15839'
-citation: 'Jones, D.C., Ceia, F.R., Murphy, E., Delord, K., Furness, R.W., Verdy, A., Mazloff, M., Phillips, R.A., Sagar, P.M., Sallee, J.-B., Schreiber, B., Thompson, D.R., Torres, L.G., Underwood, P.J., Weimerskirch, H., and Xavier, J.C. (2021). "Untangling local and remote influences in two major petrel habitats in the oligotrophic Southern Ocean." <i>Global Change Biology</i>, 27, 5773–5785. \href{https://doi.org/10.1111/gcb.15839}{https://doi.org/10.1111/gcb.15839}'
+citation: 'Jones, D.C., Ceia, F.R., Murphy, E., Delord, K., Furness, R.W., Verdy, A., Mazloff, M., Phillips, R.A., Sagar, P.M., Sallee, J.-B., Schreiber, B., Thompson, D.R., Torres, L.G., Underwood, P.J., Weimerskirch, H., and Xavier, J.C. (2021). "Untangling local and remote influences in two major petrel habitats in the oligotrophic Southern Ocean." <i>Global Change Biology</i>, 27, 5773–5785. <a href="https://doi.org/10.1111/gcb.15839">https://doi.org/10.1111/gcb.15839</a>'
+
 ---
 Ocean circulation connects geographically distinct ecosystems across a wide range of spatial and temporal scales via exchanges of physical and biogeochemical properties. Remote oceanographic processes can be especially important for ecosystems in the Southern Ocean, where the Antarctic Circumpolar Current transports properties across ocean basins through both advection and mixing. 
 

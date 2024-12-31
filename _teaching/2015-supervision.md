@@ -8,6 +8,8 @@ date: 2015-01-01
 location: "Global"
 ---
 
+Supervised and mentored undergraduate and gradue students and postdocs across diverse research projects, guiding them in developing advanced analytical skills and fostering their academic and professional growth.
+
 ### Supervision of Undergraduate, Graduate, and Postdoctoral Students
 
 I have had the privilege of supervising students at various levels, from **undergraduate** to **postdoctoral** researchers, across multiple institutions. My supervisory experience spans a broad range of topics, from **machine learning** and **oceanography** to **environmental risk analysis** and **adjoint modeling**.
