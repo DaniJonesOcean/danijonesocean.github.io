@@ -1,7 +1,7 @@
 ---
 title: "Spatial and seasonal variability of the air-sea equilibration timescale of carbon dioxide"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2014-01-01-spatial-and-seasonal-variability-of-the-air-sea-equilibration-timescale-of-carbon-dioxide
 excerpt: 'This study examines the spatial and seasonal variability of the air-sea equilibration timescale of CO2, highlighting regions of inefficient equilibration.'
 date: 2014-01-01

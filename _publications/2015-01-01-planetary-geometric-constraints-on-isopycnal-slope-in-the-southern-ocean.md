@@ -1,7 +1,7 @@
 ---
 title: "Planetary-geometric constraints on isopycnal slope in the Southern Ocean"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2015-01-01-planetary-geometric-constraints-on-isopycnal-slope-in-the-southern-ocean
 excerpt: 'This work investigates the influence of planetary-geometric constraints on the equilibrium slope of isopycnal surfaces in the Southern Ocean.'
 date: 2015-01-01

@@ -1,7 +1,7 @@
 ---
 title: "The transient response of the Southern Ocean pycnocline to changing atmospheric winds"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2011-01-01-the-transient-response-of-the-southern-ocean-pycnocline-to-changing-atmospheric-winds
 excerpt: 'This study investigates the slow, centennial timescale response of the Southern Ocean pycnocline to changing atmospheric winds.'
 date: 2011-01-01

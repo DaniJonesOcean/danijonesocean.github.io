@@ -23,7 +23,6 @@ As a researcher, I am driven by a desire to make a tangible difference in the wo
 - Numerical modeling (adjoint, forward)
 - Unsupervised classification of environmental data (e.g., Argo float profiles)
 - Observing system design for climate & environmental monitoring
-- Climate adaptation strategies, especially for coastal and freshwater ecosystems
 
 In addition to my research, I am actively involved in several professional organizations, including my role as **Co-chair of the Southern Ocean Observing System (SOOS) Working Group on Observing System Design**.
 

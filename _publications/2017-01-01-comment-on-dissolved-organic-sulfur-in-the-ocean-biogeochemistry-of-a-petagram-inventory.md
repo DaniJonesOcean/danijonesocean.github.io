@@ -1,7 +1,7 @@
 ---
 title: "Comment on 'Dissolved organic sulfur in the ocean: Biogeochemistry of a petagram inventory'"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2017-01-01-comment-on-dissolved-organic-sulfur-in-the-ocean-biogeochemistry-of-a-petagram-inventory
 excerpt: 'This comment critiques the turnover time of refractory dissolved organic sulfur (DOS) in the ocean, based on mixing between water masses.'
 date: 2017-01-01

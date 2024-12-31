@@ -1,7 +1,7 @@
 ---
 title: "Analysis of stable isotope ratios in blood of tracked wandering albatrosses fails to distinguish a δ13C gradient within their winter foraging areas in the southwest Atlantic Ocean"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2015-01-01-analysis-of-stable-isotope-ratios-in-blood-of-tracked-wandering-albatrosses-fails-to-distinguish-a-d13c-gradient-within-their-winter-foraging-areas-in-the-southwest-atlantic-ocean
 excerpt: 'This study investigates stable isotope ratios in wandering albatross blood to map the marine δ13C isoscape in the southwest Atlantic Ocean.'
 date: 2015-01-01

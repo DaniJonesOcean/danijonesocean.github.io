@@ -1,7 +1,7 @@
 ---
 title: "Wind-driven export of Weddell Sea slope water"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2016-01-01-wind-driven-export-of-weddell-sea-slope-water
 excerpt: 'This study examines the wind-driven export of waters from the Weddell Sea, a critical component of the Southern Ocean circulation.'
 date: 2016-01-01
