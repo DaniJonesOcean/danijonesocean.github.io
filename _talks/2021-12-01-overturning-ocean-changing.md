@@ -8,6 +8,8 @@ date: 2021-12-01
 location: "British Antarctic Survey, Cambridge, UK"
 ---
 
+**A look at trends in the physical ocean as well as trends in the global community of ocean scientists**
+
 **Abstract:**
 
 This lecture discusses the significant shifts in the study of oceanography, focusing on how the changing dynamics of both the ocean and the community of scientists are shaping the future of ocean science. It explores the evolving nature of oceanographic research, as well as how inclusivity, diversity, and innovation are contributing to new approaches in understanding the ocean.

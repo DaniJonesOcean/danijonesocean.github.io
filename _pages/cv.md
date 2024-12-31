@@ -32,6 +32,61 @@ Duties: Developing and implementing computational models, assisting with observa
 *Georgia Southern University*  
 Duties: Teaching undergraduate physics and astronomy courses, leading lab sessions, and mentoring students in academic research.  
 
+## Funding
+### Principal Investigator Roles
+- **SO-WISE**: Ocean-ice state estimates: new tools for understanding and monitoring key sea level regulators  
+  - Funder: UKRI Future Leaders Fellowship  
+  - Resource: 7.0 FTE (PI and 3-year postdoc)  
+  - Status: Concluded  
+
+- **ARCHER Adjoint Modelling Tools**  
+  - Funder: University of Edinburgh, EPCC (eCSE03-09)  
+  - Result: Optimized MITgcm build options for UK ARCHER HPC platform  
+  - Status: Complete  
+
+- **NERC Research Experience Placement (REP)**  
+- Project duration: Six 10-week summer projects 
+
+### Co-Investigator Roles
+- **C-STREAMS**: The Gulf Stream control of the North Atlantic carbon sink  
+  - Funders: NERC and NSF  
+  - Resource: 3.0 FTE (1.0 FTE/yr for 3 years)  
+  - Status: Active  
+
+- **OceanBound**: Global ocean dynamics through the lens of boundary pressures 
+  - Funders: NERC  
+  - Resource: 3.0 FTE  
+  - Status: Active  
+
+- **SO-ICE**: Southern Ocean-Ice Shelf Interactions  
+  - Funder: European Space Agency (ESA)  
+  - Principal Investigator: Anna Hogg (University of Leeds)  
+  - Status: Complete 
+
+- **CANARI**: Climate change in the Arctic-North Atlantic Region and Impacts on the UK  
+  - Funder: NERC  
+  - Resource: 4.0 FTE (0.8 FTE/yr for 5 years)  
+  - Status: Active  
+
+- **DEFIANT**: Drivers and Effects of Fluctuations in sea Ice in the ANTarctic  
+  - Funder: NERC  
+  - Resource: 1.0 FTE (1.0 FTE/yr for 1 year)  
+  - Status: Active  
+
+- **EnvSensors**: Environmental models: bridging the spatial scales, from surface sensors to satellite sensors  
+  - Funder: Alan Turing Institute  
+  - Resource: 2.0 FTE (1.0 FTE/yr for 2 years)  
+  - Status: Complete  
+
+- **DeCAdeS**: Drivers of Oceanic Change in the Amundsen Sea  
+  - Funder: NERC Large Grant  
+  - Resource: 5.0 FTE (1.0 FTE/yr for 5 years)  
+  - Status: Active  
+
+- **MITgcm Optimization on ARCHER2 HPC**  
+  - Funder: University of Edinburgh, EPCC (eCSE)  
+  - Status: Complete  
+
 ## Skills
 - **Data Science & Machine Learning**
   - Machine learning algorithms (supervised & unsupervised learning)

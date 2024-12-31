@@ -1,7 +1,7 @@
 ---
 title: "Freshwater flux from ice sheet melting and iceberg calving in the Southern Ocean"
 collection: publications
-category: journal articles
+category: manuscripts
 permalink: /publication/2016-01-01-freshwater-flux-from-ice-sheet-melting-and-iceberg-calving-in-the-southern-ocean
 excerpt: 'This data paper presents a multiyear mean Southern Ocean freshwater flux field derived from measurements of ice sheet melting, iceberg calving, and river runoff.'
 date: 2016-01-01

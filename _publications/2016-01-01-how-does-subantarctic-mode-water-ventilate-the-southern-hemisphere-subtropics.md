@@ -1,7 +1,7 @@
 ---
 title: "How does Subantarctic Mode Water ventilate the Southern Hemisphere subtropics?"
 collection: publications
-category: journal_articles
+category: manuscripts
 permalink: /publication/2016-01-01-how-does-subantarctic-mode-water-ventilate-the-southern-hemisphere-subtropics
 excerpt: 'This study investigates the export and ventilation pathways of Subantarctic Mode Water (SAMW) to the Southern Hemisphere subtropics.'
 date: 2016-01-01
