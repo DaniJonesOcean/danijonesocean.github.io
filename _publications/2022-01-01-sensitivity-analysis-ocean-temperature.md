@@ -3,7 +3,7 @@ title: "Sensitivity analysis of a regression model of ocean temperature"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-sensitivity-analysis-ocean-temperature
-excerpt: 'This paper explores the sensitivity of a regression-based model of ocean temperature to its inputs, revealing that the model heavily relies on variables tied to physical processes, such as currents and density, while requiring nonlinear interactions to exhibit meaningful skill.'
+# excerpt: 'This paper explores the sensitivity of a regression-based model of ocean temperature to its inputs, revealing that the model heavily relies on variables tied to physical processes, such as currents and density, while requiring nonlinear interactions to exhibit meaningful skill.'
 date: 2022-01-01
 venue: 'Environmental Data Science'
 slidesurl: ''

@@ -3,7 +3,7 @@ title: "Unsupervised clustering of Southern Ocean Argo float profiles"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-01-unsupervised-clustering-southern-ocean-argo-float-profiles
-excerpt: 'This study applies Gaussian mixture modeling (GMM) to Southern Ocean Argo float temperature profiles to identify spatially coherent classes influenced by the Antarctic Circumpolar Current, mode/intermediate water formation, and large-scale gyre circulation.'
+# excerpt: 'This study applies Gaussian mixture modeling (GMM) to Southern Ocean Argo float temperature profiles to identify spatially coherent classes influenced by the Antarctic Circumpolar Current, mode/intermediate water formation, and large-scale gyre circulation.'
 date: 2019-01-01
 venue: 'Journal of Geophysical Research - Oceans'
 slidesurl: ''

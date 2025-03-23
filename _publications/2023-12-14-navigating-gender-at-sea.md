@@ -3,7 +3,7 @@ title: "Navigating Gender at Sea: Recommendations for Making Seagoing Work Safer
 collection: publications
 category: manuscripts
 permalink: /publication/2023-12-14-navigating-gender-at-sea
-excerpt: 'This paper provides recommendations for individuals, cruise leaders, and institutions to make seagoing work safer for transgender and gender diverse scientists, based on shared experiences and recent efforts.'
+# excerpt: 'This paper provides recommendations for individuals, cruise leaders, and institutions to make seagoing work safer for transgender and gender diverse scientists, based on shared experiences and recent efforts.'
 date: 2023-12-14
 venue: 'AGU Advances'
 slidesurl: ''

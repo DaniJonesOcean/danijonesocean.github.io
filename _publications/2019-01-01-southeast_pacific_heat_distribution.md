@@ -3,7 +3,7 @@ title: "Heat distribution in the Southeast Pacific is only weakly sensitive to h
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-01-southeast-pacific-heat-distribution
-excerpt: 'This study investigates the factors controlling the distribution of heat in the Southeast Pacific using a global ocean state estimate and adjoint sensitivity methods, highlighting the weak sensitivity to high-latitude changes.'
+# excerpt: 'This study investigates the factors controlling the distribution of heat in the Southeast Pacific using a global ocean state estimate and adjoint sensitivity methods, highlighting the weak sensitivity to high-latitude changes.'
 date: 2019-01-01
 venue: 'Journal of Geophysical Research - Oceans'
 slidesurl: ''

@@ -3,7 +3,7 @@ title: "The Sensitivity of Southeast Pacific Heat Distribution to Local and Remo
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-01-southeast-pacific-heat-distribution
-excerpt: 'This study examines how changes in ocean temperature and salinity affect heat distribution in the Southern Ocean, with a focus on the recently ventilated subsurface Pacific sector.'
+# excerpt: 'This study examines how changes in ocean temperature and salinity affect heat distribution in the Southern Ocean, with a focus on the recently ventilated subsurface Pacific sector.'
 date: 2020-01-01
 venue: 'Journal of Physical Oceanography'
 slidesurl: ''

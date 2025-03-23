@@ -3,7 +3,7 @@ title: "Local and remote influences on the heat content of the Labrador Sea: an 
 collection: publications
 category: manuscripts
 permalink: /publication/2018-01-01-local-and-remote-influences-on-the-heat-content-of-the-labrador-sea
-excerpt: 'This study investigates the local and remote influences on the Labrador Sea heat content, with a focus on temperature/salinity changes and remote heat fluxes.'
+# excerpt: 'This study investigates the local and remote influences on the Labrador Sea heat content, with a focus on temperature/salinity changes and remote heat fluxes.'
 date: 2018-01-01
 venue: 'Journal of Geophysical Research - Oceans'
 slidesurl: ''

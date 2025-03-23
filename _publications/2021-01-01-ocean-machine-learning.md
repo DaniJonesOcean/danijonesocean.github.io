@@ -3,7 +3,7 @@ title: "Bridging observations, theory, and numerical simulation of the ocean usi
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-ocean-machine-learning
-excerpt: 'This review explores the application of machine learning to overcome unique challenges in oceanography, highlighting its potential to enhance observational, theoretical, and numerical modeling efforts.'
+# excerpt: 'This review explores the application of machine learning to overcome unique challenges in oceanography, highlighting its potential to enhance observational, theoretical, and numerical modeling efforts.'
 date: 2021-01-01
 venue: 'Environmental Research Letters'
 slidesurl: ''

@@ -3,7 +3,7 @@ title: "Identifying Ocean Submesoscale Activity from Vertical Density Profiles U
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-ocean-submesoscale-activity-density-profiles
-excerpt: 'This paper utilizes machine learning to identify ocean submesoscale activity from vertical density profiles.'
+# excerpt: 'This paper utilizes machine learning to identify ocean submesoscale activity from vertical density profiles.'
 date: 2025-01-01
 venue: 'Earth and Space Science'
 slidesurl: ''

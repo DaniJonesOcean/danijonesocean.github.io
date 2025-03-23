@@ -3,7 +3,7 @@ title: "Defining Southern Ocean fronts using unsupervised classification"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-southern-ocean-fronts
-excerpt: 'This study introduces a novel probabilistic method using Gaussian mixture modelling and the I-metric to define Southern Ocean fronts, offering insights into their multiscale structure and variability in a changing climate.'
+# excerpt: 'This study introduces a novel probabilistic method using Gaussian mixture modelling and the I-metric to define Southern Ocean fronts, offering insights into their multiscale structure and variability in a changing climate.'
 date: 2021-01-01
 venue: 'Ocean Science'
 slidesurl: ''

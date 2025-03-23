@@ -3,7 +3,7 @@ title: "Causes of the 2015 North Atlantic cold anomaly in a global state estimat
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-north-atlantic-cold-anomaly
-excerpt: 'This study investigates the 2015 subpolar North Atlantic cold anomaly, revealing that strong surface forcing initiated most of the cooling, while subsequent processes, including vertical diffusion and weak surface warming, maintained and enhanced the anomaly.'
+# excerpt: 'This study investigates the 2015 subpolar North Atlantic cold anomaly, revealing that strong surface forcing initiated most of the cooling, while subsequent processes, including vertical diffusion and weak surface warming, maintained and enhanced the anomaly.'
 date: 2022-01-01
 venue: 'Ocean Science'
 slidesurl: ''

@@ -3,7 +3,7 @@ title: "Gaussian mixture modeling describes the geography of the surface carbon 
 collection: publications
 category: conferences
 permalink: /publication/2019-10-02-gaussian-mixture-modeling-surface-carbon-budget
-excerpt: 'This paper uses Gaussian mixture modeling to identify ocean regions with similar balances in the surface carbon budget, providing a novel approach for biogeochemical regime comparisons.'
+# excerpt: 'This paper uses Gaussian mixture modeling to identify ocean regions with similar balances in the surface carbon budget, providing a novel approach for biogeochemical regime comparisons.'
 date: 2019-10-02
 venue: 'Proceedings of the 9th International Workshop on Climate Informatics: CI 2019'
 slidesurl: ''

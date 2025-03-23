@@ -2,7 +2,7 @@
 title: "Finale: impact of the ORCHESTRA/ENCORE programmes on Southern Ocean heat and carbon understanding"  
 collection: publications  
 category: manuscripts   
-excerpt: "This paper examines the impact of the ORCHESTRA/ENCORE programmes on the understanding of Southern Ocean heat and carbon dynamics."  
+# excerpt: "This paper examines the impact of the ORCHESTRA/ENCORE programmes on the understanding of Southern Ocean heat and carbon dynamics."  
 date: 2023-06-26  
 venue: "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences"  
 slidesurl: ""  

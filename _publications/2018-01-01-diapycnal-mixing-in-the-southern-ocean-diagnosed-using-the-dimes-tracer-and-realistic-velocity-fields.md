@@ -3,7 +3,7 @@ title: "Diapycnal mixing in the Southern Ocean diagnosed using the DIMES tracer 
 collection: publications
 category: manuscripts
 permalink: /publication/2018-01-01-diapycnal-mixing-in-the-southern-ocean-diagnosed-using-the-dimes-tracer-and-realistic-velocity-fields
-excerpt: 'This study uses realistic velocity fields to optimize diapycnal diffusivity and analyze mixing in the Antarctic Circumpolar Current.'
+# excerpt: 'This study uses realistic velocity fields to optimize diapycnal diffusivity and analyze mixing in the Antarctic Circumpolar Current.'
 date: 2018-01-01
 venue: 'Journal of Geophysical Research - Oceans'
 slidesurl: ''

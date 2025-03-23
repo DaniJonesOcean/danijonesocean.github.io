@@ -3,7 +3,7 @@ title: "Mapping Out How Machine Learning and Artificial Intelligence Will Change
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-machine-learning-ai-great-lakes
-excerpt: 'This paper discusses the impact of machine learning and AI on the future of Great Lakes observations, modeling, and forecasting.'
+# excerpt: 'This paper discusses the impact of machine learning and AI on the future of Great Lakes observations, modeling, and forecasting.'
 date: 2025-01-01
 venue: 'Bulletin of the American Meteorological Society'
 slidesurl: ''
