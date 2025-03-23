@@ -3,7 +3,7 @@ title: "Biogeography of cephalopods in the Southern Ocean using habitat suitabil
 collection: publications
 category: manuscripts
 permalink: /publication/2015-01-01-biogeography-of-cephalopods-in-the-southern-ocean-using-habitat-suitability-prediction-models
-excerpt: 'This study develops habitat suitability models for Southern Ocean cephalopods, assessing favorable areas and examining species distribution in relation to environmental parameters.'
+# excerpt: 'This study develops habitat suitability models for Southern Ocean cephalopods, assessing favorable areas and examining species distribution in relation to environmental parameters.'
 date: 2015-01-01
 venue: 'Ecosystems'
 slidesurl: ''

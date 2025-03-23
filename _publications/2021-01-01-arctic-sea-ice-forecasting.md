@@ -3,7 +3,7 @@ title: "Seasonal Arctic sea ice forecasting with probabilistic deep learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-arctic-sea-ice-forecasting
-excerpt: 'IceNet, a probabilistic deep learning system, advances seasonal Arctic sea ice forecasts, outperforming dynamical models and statistical benchmarks, with implications for conservation and risk mitigation.'
+# excerpt: 'IceNet, a probabilistic deep learning system, advances seasonal Arctic sea ice forecasts, outperforming dynamical models and statistical benchmarks, with implications for conservation and risk mitigation.'
 date: 2021-01-01
 venue: 'Nature Communications'
 slidesurl: ''

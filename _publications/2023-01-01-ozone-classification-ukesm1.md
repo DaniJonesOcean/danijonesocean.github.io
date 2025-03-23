@@ -3,7 +3,7 @@ title: "Technical note: Unsupervised classification of ozone profiles in UKESM1"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-ozone-classification-ukesm1
-excerpt: 'This study uses unsupervised classification to identify coherent ozone regimes from UKESM1 model data. Gaussian mixture modeling reveals six global classes and highlights shifts in ozone distribution under future climate scenarios, including expanded tropical regimes and signs of ozone hole recovery.'
+# excerpt: 'This study uses unsupervised classification to identify coherent ozone regimes from UKESM1 model data. Gaussian mixture modeling reveals six global classes and highlights shifts in ozone distribution under future climate scenarios, including expanded tropical regimes and signs of ozone hole recovery.'
 date: 2023-01-01
 venue: 'Atmospheric Chemistry and Physics'
 slidesurl: ''

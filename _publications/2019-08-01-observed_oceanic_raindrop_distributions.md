@@ -3,7 +3,7 @@ title: "On the distinctiveness of observed oceanic raindrop distributions"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-08-01-observed-oceanic-raindrop-distributions
-excerpt: 'This study investigates the validity of commonly used raindrop size distributions (DSDs) over the ocean, comparing new disdrometer data with satellite-based estimates and exploring the impacts of DSD variability on radiative transfer.'
+# excerpt: 'This study investigates the validity of commonly used raindrop size distributions (DSDs) over the ocean, comparing new disdrometer data with satellite-based estimates and exploring the impacts of DSD variability on radiative transfer.'
 date: 2019-08-01
 venue: 'Atmospheric Chemistry and Physics'
 slidesurl: ''

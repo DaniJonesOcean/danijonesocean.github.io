@@ -3,7 +3,7 @@ title: "Self-shading and meltwater spreading control the transition from light t
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-antarctic-coastal-polynya
-excerpt: 'This study uses modeling to explore how ice shelf melting influences nutrient supply and phytoplankton productivity in the Amundsen Sea Polynya, identifying key feedbacks and drivers of iron and light limitation.'
+# excerpt: 'This study uses modeling to explore how ice shelf melting influences nutrient supply and phytoplankton productivity in the Amundsen Sea Polynya, identifying key feedbacks and drivers of iron and light limitation.'
 date: 2021-01-01
 venue: 'Journal of Geophysical Research: Oceans'
 slidesurl: ''

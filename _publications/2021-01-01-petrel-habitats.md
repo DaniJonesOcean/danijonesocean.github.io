@@ -3,7 +3,7 @@ title: "Untangling local and remote influences in two major petrel habitats in t
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-petrel-habitats
-excerpt: 'This study explores oceanographic features influencing the foraging habitats of grey petrels in the Southern Ocean, emphasizing the ecological relevance of oligotrophic regions and their advective connections.'
+# excerpt: 'This study explores oceanographic features influencing the foraging habitats of grey petrels in the Southern Ocean, emphasizing the ecological relevance of oligotrophic regions and their advective connections.'
 date: 2021-01-01
 venue: 'Global Change Biology'
 slidesurl: ''

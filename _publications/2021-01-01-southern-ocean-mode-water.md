@@ -3,7 +3,7 @@ title: "Local and remote influences on the heat content of Southern Ocean mode w
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-southern-ocean-mode-water
-excerpt: 'Using an adjoint model, this study examines sensitivities of Southern Ocean mode water formation regions to surface fluxes, highlighting local and remote influences on heat content and mixed layer dynamics.'
+# excerpt: 'Using an adjoint model, this study examines sensitivities of Southern Ocean mode water formation regions to surface fluxes, highlighting local and remote influences on heat content and mixed layer dynamics.'
 date: 2021-01-01
 venue: 'Journal of Geophysical Research: Oceans'
 slidesurl: ''

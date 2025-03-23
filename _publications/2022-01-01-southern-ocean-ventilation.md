@@ -3,7 +3,7 @@ title: "Ventilation of the Southern Ocean pycnocline"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-southern-ocean-ventilation
-excerpt: 'This review explores the mechanisms of Southern Ocean ventilation, emphasizing its three-dimensional, temporally varying nature and the interconnected processes involved in the uptake of anthropogenic heat and carbon.'
+# excerpt: 'This review explores the mechanisms of Southern Ocean ventilation, emphasizing its three-dimensional, temporally varying nature and the interconnected processes involved in the uptake of anthropogenic heat and carbon.'
 date: 2022-01-01
 venue: 'Annual Review of Marine Science'
 slidesurl: ''

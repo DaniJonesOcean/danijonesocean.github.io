@@ -3,7 +3,7 @@ title: "Ocean Heat Convergence and North Atlantic Multidecadal Heat Content Vari
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-ocean-heat-convergence-north-atlantic
-excerpt: 'This paper analyzes the role of ocean heat convergence in the variability of North Atlantic multidecadal heat content.'
+# excerpt: 'This paper analyzes the role of ocean heat convergence in the variability of North Atlantic multidecadal heat content.'
 date: 2024-01-01
 venue: 'Journal of Climate'
 slidesurl: ''
