@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<b><a href="https://raw.githubusercontent.com/DaniJonesOcean/danijonesocean.github.io/main/files/JonesCV_CIGLR_2025-03-15.pdf" download>Download My CV</a></b>
+
+
 ## Education
 - **Ph.D. in Atmospheric Science**, Colorado State University, 2013
 - **M.S. in Mathematical Sciences**, Georgia Southern University, 2009
