@@ -6,7 +6,7 @@ permalink: /talks/2026-03-19-great-lakes-observing-system-design-cgnp
 venue: "8th NOAA AI Hybrid Workshop"
 date: 2026-03-19
 location: "Virtual"
--------------------
+---
 
 **Using uncertainty-aware machine learning to evaluate environmental observing strategies in the Great Lakes**
 

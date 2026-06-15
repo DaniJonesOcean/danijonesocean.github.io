@@ -7,7 +7,7 @@ permalink: /talks/2025-10-15-challenges-in-observing-system-design
 venue: "University of Washington Oceanography Seminar"
 date: 2025-10-15
 location: "Seattle, WA"
------------------------
+---
 
 **Seminar presented at the University of Washington on 15 October 2025 and at NOAA Pacific Marine Environmental Laboratory (PMEL) on 16 October 2025.**
 

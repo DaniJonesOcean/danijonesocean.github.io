@@ -2,7 +2,7 @@
 title: "The Biogeochemical Transport by the Gulf Stream"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-02-12-gulfstream.md
+permalink: 
 # excerpt: 'Examining how the Gulf Stream transports carbon, nutrients, and other biogeochemical tracers across the North Atlantic.'
 date: 2026-01-01
 venue: 'Communications Earth & Environment'

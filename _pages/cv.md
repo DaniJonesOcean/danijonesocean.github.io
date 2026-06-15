@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b><a href="https://raw.githubusercontent.com/DaniJonesOcean/danijonesocean.github.io/main/files/DaniJonesCV_2026-06-15" download>Download My CV</a></b>
+<b><a href="https://raw.githubusercontent.com/DaniJonesOcean/danijonesocean.github.io/main/files/DaniJonesCV_2026-06-15.pdf" download>Download My CV</a></b>
 
 ## Research Overview
 
