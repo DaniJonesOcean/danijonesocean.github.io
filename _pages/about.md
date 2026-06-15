@@ -9,23 +9,24 @@ redirect_from:
 
 ## About Dr. Dani Jones
 
-I am what you might call an "Earth system scientist" with a strong foundation in physical oceanography, applied mathematics, and numerical modeling. Currently, I work as an Associate Research Scientist at the Cooperative Institute for Great Lakes Research (CIGLR), where I lead efforts at the intersection of machine learning, artificial intelligence, and environmental modeling. My research is focused on using computational methods to understand and address critical environmental challenges, particularly those driven by climate change. 
+I am an Earth system scientist working at the intersection of environmental prediction, observing system design, and machine learning. I am an Associate Research Scientist at the Cooperative Institute for Great Lakes Research (CIGLR) at the University of Michigan and an Honorary Researcher with the British Antarctic Survey (BAS). 
 
-At CIGLR, I am establishing the **Great Lakes Artificial Intelligence Laboratory**, a hub for applying ML/AI and modeling techniques to Great Lakes research and restoration. Our work spans a range of applications, including observing system design and water level forecasting.
+My work uses machine learning, statistical methods, and numerical models to better understand and predict environmental systems. Much of my current research focuses on the Great Lakes, where I work on problems including water level forecasting, evaporation, environmental monitoring, and observing system design.
 
-With a background in **physical oceanography** and expertise in **adjoint modeling** and **unsupervised classification**, I specialize in using data-driven and modeling approaches to gain insights into complex Earth system processes. My research has a particular focus on large-scale ocean circulation and dynamics, with previous work in the **Southern Ocean** and **North Atlantic Ocean**. I have also worked extensively with **Argo float profiles** and have applied mathematical techniques to better understand global ocean dynamics.
+A recurring theme in my research is uncertainty: what we know, what we do not know, and how we can make better use of limited observations. I am particularly interested in how environmental observations, numerical models, and machine learning methods can be combined to support both scientific understanding and practical decision-making.
 
-As a researcher, I am driven by a desire to make a tangible difference in the world. By leveraging the power of AI and machine learning, I aim to develop solutions that can help society adapt to the impacts of climate change, especially in vulnerable coastal areas. I am deeply committed to interdisciplinary collaboration, drawing on the expertise of my colleagues and partners from around the world to tackle complex problems.
+Before moving to the Great Lakes, I worked extensively in the Southern Ocean and North Atlantic, studying large-scale ocean circulation, climate variability, and air-sea interaction. My background includes physical oceanography, applied mathematics, adjoint modeling, and unsupervised classification of environmental data.
 
-**My Expertise Includes:**
-- Environmental data science & machine learning for Earth system analysis
-- Large-scale ocean circulation & dynamics
-- Numerical modeling (adjoint, forward)
-- Unsupervised classification of environmental data (e.g., Argo float profiles)
-- Observing system design for climate & environmental monitoring
+I work closely with NOAA, the Great Lakes Observing System (GLOS), academic partners, and regional stakeholders to develop tools that support forecasting, environmental management, and scientific discovery. More recently, I have become interested in the role that machine learning can play in the design of environmental observing systems and scientific decision-making.
 
-In addition to my research, I am actively involved in several professional organizations, including my role as **Co-chair of the Southern Ocean Observing System (SOOS) Working Group on Observing System Design**.
+Research areas include:
 
-I'm passionate about **collaborative problem-solving** and fostering an inclusive research environment. I believe that the best science happens when diverse perspectives come together to generate creative solutions for a sustainable future.
+* Machine learning for environmental prediction
+* Observing system design and environmental monitoring
+* Environmental uncertainty quantification
+* Great Lakes water levels, evaporation, and forecasting
+* Physical oceanography and Earth system science
+* Numerical modeling and data assimilation
+* Unsupervised learning and environmental classification
 
-I am always open to new collaborations, so please get in touch if you would like to discuss opportunities.
+

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-machine-learning-ai-great-lakes
 # excerpt: 'This paper discusses the impact of machine learning and AI on the future of Great Lakes observations, modeling, and forecasting.'
-date: 2025-01-01
+date: 2025-02-01
 venue: 'Bulletin of the American Meteorological Society'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1175/BAMS-D-24-0304.1'
