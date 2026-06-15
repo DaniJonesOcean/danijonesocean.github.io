@@ -1,26 +1,45 @@
 ---
 title: "Data-Driven Observing Network Design for the Great Lakes and Southern Ocean"
-excerpt: "Using data-driven tools to optimize observing network design for enhanced environmental monitoring in the Great Lakes region and Southern Ocean."
+excerpt: "Using machine learning and uncertainty quantification to design environmental observing systems."
 collection: portfolio
 ---
 
 ### Overview
-The **Observing Network Design** project aims to leverage data-driven tools to optimize the design and operation of environmental monitoring networks in both the **Great Lakes region** and the **Southern Ocean**. By using advanced data science and machine learning techniques, the goal is to improve how we collect and interpret environmental data, ultimately enhancing our ability to monitor and respond to changes in these vital ecosystems.
 
-### Key Objectives:
-- Develop methods to optimize sensor placement and network configuration
-- Enhance monitoring of key environmental variables such as temperature, salinity, and nutrient concentrations
-- Apply machine learning algorithms to analyze environmental data and inform network design decisions
-- Support long-term monitoring strategies for climate change adaptation and ecosystem management
+Environmental observations are expensive, sparse, and often collected in challenging environments. This raises a fundamental question: if we can only observe part of a system, where should we look?
 
-### My Role:
-As part of this project, I lead the development of **data-driven methodologies** for designing observing systems that are both efficient and effective. My work involves integrating machine learning tools to assess the most strategic locations for deploying sensors, based on historical and real-time environmental data.
+This project explores how machine learning and statistical methods can help inform the design of environmental observing systems. My work focuses on understanding where new observations would provide the greatest information gain, how observing networks perform under different objectives, and how observations can be translated into improved environmental forecasts and scientific understanding.
 
-### Impact:
-By improving the design of environmental monitoring networks, this project aims to enhance our ability to detect changes in the ecosystem, improve predictive capabilities for climate-related events, and support policy decisions related to environmental conservation and management.
+Current applications span both the **Great Lakes** and the **Southern Ocean**, two regions where environmental variability, logistical constraints, and limited observational resources make observing system design particularly challenging.
 
-### Related Publications:
-- [Link to any relevant paper or publication, if applicable]
+### Research Themes
 
-### Future Directions:
-We plan to expand this work by incorporating more diverse datasets, including satellite observations and real-time sensor data, to refine our methods and ensure the networks are adaptable to evolving environmental conditions.
+* Uncertainty-aware machine learning for environmental monitoring
+* Environmental sensor placement and network design
+* Active learning and information gain
+* Observing system evaluation and optimization
+* Integration of observations, models, and forecasts
+* Environmental decision-making under uncertainty
+
+### Current Projects
+
+#### Great Lakes Observing System Design
+
+In partnership with NOAA GLERL, GLOS, and regional stakeholders, I am developing machine learning approaches to evaluate candidate observing strategies for the Great Lakes. This work uses convolutional Gaussian neural processes and related methods to identify where additional observations may provide the greatest benefit for forecasting and environmental monitoring.
+
+#### Southern Ocean Observing System Design
+
+As Co-chair of the Southern Ocean Observing System (SOOS) Observing System Design Working Group, I contribute to international efforts to evaluate and improve observing strategies in one of the most data-sparse regions of the global ocean.
+
+### Why This Matters
+
+Every observing system reflects choices about what information is most valuable and where limited resources should be invested. Machine learning can help us explore these choices more systematically, but it does not replace scientific expertise or stakeholder priorities.
+
+The long-term goal of this work is to develop tools that help scientists, managers, and communities make better-informed decisions about environmental observations and monitoring.
+
+### Related Work
+
+* Environmental sensor placement using convolutional Gaussian neural processes
+* Great Lakes observing system design using uncertainty-aware machine learning
+* Southern Ocean observing system design through SOOS
+
